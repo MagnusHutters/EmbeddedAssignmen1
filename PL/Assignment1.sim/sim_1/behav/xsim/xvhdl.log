@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.srcs/sources_1/imports/Downloads/rx_mod_rtl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rx_mod'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.srcs/sources_1/imports/Downloads/clk_divider.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clk_divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.srcs/sources_1/new/bram_ctrl2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bram_store'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.ip_user_files/bd/design_1/ip/design_1_proc_sys_reset_0_0/sim/design_1_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_proc_sys_reset_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.ip_user_files/bd/design_1/ip/design_1_smartconnect_0_0/bd_0/ip/ip_1/sim/bd_48ac_psr_aclk_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bd_48ac_psr_aclk_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/magnus/Assignment1/Assignment1.ip_user_files/bd/design_1/ip/design_1_axi_bram_ctrl_0_0/sim/design_1_axi_bram_ctrl_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_bram_ctrl_0_0'

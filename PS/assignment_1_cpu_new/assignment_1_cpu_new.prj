@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="assignment_1_cpu_new" location="/home/magnus/workspace/assignment_1_cpu_new" platform="/home/magnus/workspace/design_1_wrapper_new/export/design_1_wrapper_new/design_1_wrapper_new.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="assignment_1_cpu_new_system" sysConfig="design_1_wrapper_new" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="51febf84ee0b25b493662fc63f9b3d44">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.378759691">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1720036885" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
